@@ -36,7 +36,6 @@
        }
    }
      ```
-
 3. **Running the Python Script**:
    - Ran the `autonomous_example.py` script to display the live camera feed.
 

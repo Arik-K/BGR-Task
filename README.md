@@ -36,7 +36,6 @@
     }
 }
 
-     }
      ```
 
 3. **Running the Python Script**:

@@ -34,7 +34,7 @@
            "Roll": 0.0,
            "Yaw": 0
        }
-   }
+     }
       ```
 4. **Running the Python Script**:
    - Ran the `autonomous_example.py` script to display the live camera feed.
@@ -57,4 +57,4 @@
        img1d = numpy.frombuffer(response[0].image_data_uint8, dtype=numpy.uint8)
        img_rgb = img1d.reshape(response[0].height, response[0].width, 3)
        cv2.imshow("Live Camera Feed", img_rgb)
-```
+   ```

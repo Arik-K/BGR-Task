@@ -35,8 +35,8 @@
            "Yaw": 0
        }
    }
-     ```
-3. **Running the Python Script**:
+      ```
+4. **Running the Python Script**:
    - Ran the `autonomous_example.py` script to display the live camera feed.
 
 ---
